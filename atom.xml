@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yanjie的个人博客|前端探索</title>
+  
+  <subtitle>程序媛的进阶之路</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.yanjie95.top/"/>
+  <updated>2019-05-16T06:06:59.652Z</updated>
+  <id>https://www.yanjie95.top/</id>
+  
+  <author>
+    <name>Nancy Tan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello-world</title>
+    <link href="https://www.yanjie95.top/2019/05/16/hello-world/"/>
+    <id>https://www.yanjie95.top/2019/05/16/hello-world/</id>
+    <published>2019-05-16T05:51:33.000Z</published>
+    <updated>2019-05-16T06:06:59.652Z</updated>
+    
+    <content type="html"><![CDATA[<p>通过一个阶段（季度）的实践，基本可以摸索出团队的综合实力，对比阶段开始前设定的目标和团队拿到的结果，可以看出团队是否故意隐藏了实力，或者是否目标设置得过高，在下一个阶段作出合适调整。一方面，可以更好的完成目标，另一方面，不断的挖掘、培养和提升团队的综合实力。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;通过一个阶段（季度）的实践，基本可以摸索出团队的综合实力，对比阶段开始前设定的目标和团队拿到的结果，可以看出团队是否故意隐藏了实力，或者是否目标设置得过高，在下一个阶段作出合适调整。一方面，可以更好的完成目标，另一方面，不断的挖掘、培养和提升团队的综合实力。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
