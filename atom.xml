@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yanjie的个人博客|前端探索</title>
+  <title>咕叽咕叽</title>
   
-  <subtitle>程序媛的进阶之路</subtitle>
+  <subtitle>程序媛的前端打怪之路</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yanjie95.top/"/>
