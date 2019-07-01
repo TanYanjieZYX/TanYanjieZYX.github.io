@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yanjie95.top/"/>
-  <updated>2019-06-30T16:01:55.016Z</updated>
+  <updated>2019-07-01T16:01:26.122Z</updated>
   <id>https://www.yanjie95.top/</id>
   
   <author>
@@ -21,17 +21,13 @@
     <link href="https://www.yanjie95.top/2019/06/30/%E6%8A%98%E8%85%BE%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84hexo/"/>
     <id>https://www.yanjie95.top/2019/06/30/折腾了一下午的hexo/</id>
     <published>2019-06-30T15:32:50.000Z</published>
-    <updated>2019-06-30T16:01:55.016Z</updated>
+    <updated>2019-07-01T16:01:26.122Z</updated>
     
-    <content type="html"><![CDATA[<p>人生啊，搞了一下午的hexo</p>]]></content>
+    <content type="html"><![CDATA[<p>人生啊，搞了一下午的hexo<br><a id="more"></a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;人生啊，搞了一下午的hexo&lt;/p&gt;
-
-      
+      &lt;p&gt;人生啊，搞了一下午的hexo&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -43,17 +39,13 @@
     <link href="https://www.yanjie95.top/2019/05/16/%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0%E5%8E%86%E7%A8%8B/"/>
     <id>https://www.yanjie95.top/2019/05/16/春招实习历程/</id>
     <published>2019-05-16T07:16:48.000Z</published>
-    <updated>2019-06-30T16:01:55.017Z</updated>
+    <updated>2019-07-01T16:01:26.126Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2019/05/16/春招实习历程/timg.jpg" alt="我知道"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2019/05/16/春招实习历程/timg.jpg" alt="我知道"><br><a id="more"></a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/2019/05/16/春招实习历程/timg.jpg&quot; alt=&quot;我知道&quot;&gt;&lt;/p&gt;
-
-      
+      &lt;p&gt;&lt;img src=&quot;/2019/05/16/春招实习历程/timg.jpg&quot; alt=&quot;我知道&quot;&gt;&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -65,19 +57,26 @@
     <link href="https://www.yanjie95.top/2019/05/16/hello-world/"/>
     <id>https://www.yanjie95.top/2019/05/16/hello-world/</id>
     <published>2019-05-16T05:51:33.000Z</published>
-    <updated>2019-06-30T16:02:21.786Z</updated>
+    <updated>2019-07-01T16:01:26.122Z</updated>
     
-    <content type="html"><![CDATA[<p><blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><br>通过一个阶段（季度）的实践，基本可以摸索出团队的综合实力，对比阶段开始前设定的目标和团队拿到的结果，可以看出团队是否故意隐藏了实力，或者是否目标设置得过高，在下一个阶段作出合适调整。一方面，可以更好的完成目标，另一方面，不断的挖掘、培养和提升团队的综合实力。</p>]]></content>
+    <content type="html"><![CDATA[<p><blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><br><a id="more"></a><br>通过一个阶段（季度）的实践，基本可以摸索出团队的综合实力，对比阶段开始前设定的目标和团队拿到的结果，可以看出团队是否故意隐藏了实力，或者是否目标设置得过高，在下一个阶段作出合适调整。一方面，可以更好的完成目标，另一方面，不断的挖掘、培养和提升团队的综合实力。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/blockquote&gt;&lt;br&gt;通过一个阶段（季度）的实践，基本可以摸索出团队的综合实力，对比阶段开始前设定的目标和团队拿到的结果，可以看出团队是否
-      
+      &lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/blockquote&gt;&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
+      <category term="hexo" scheme="https://www.yanjie95.top/categories/hexo/"/>
+    
+      <category term="config" scheme="https://www.yanjie95.top/categories/hexo/config/"/>
+    
+      <category term="tags" scheme="https://www.yanjie95.top/categories/hexo/config/tags/"/>
+    
+    
+      <category term="hexo" scheme="https://www.yanjie95.top/tags/hexo/"/>
+    
+      <category term="tags" scheme="https://www.yanjie95.top/tags/tags/"/>
     
   </entry>
   
